@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PerfilDigitalUpskill
 - 👀 I’m interested in Coding and Basketball
-- 🌱 I’m currently learning code at 42 school
+- 🌱 I’m currently learning code at 42 school and about Cloud in Upskill
 - 💞️ I’m looking to collaborate on innovating projects
 - 📫 How to reach me sojogoswarzone@gmail.com
 
